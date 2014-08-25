@@ -1,3 +1,7 @@
+/src/main/webapp/js/lib/dijit/*
+/src/main/webapp/js/lib/dojo/*
+/.settings/*
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
@@ -34,3 +38,7 @@ Icon
 # Files that might appear on external disk
 .Spotlight-V100
 .Trashes
+/target
+
+.project
+.classpath
